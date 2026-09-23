@@ -1,1 +1,1 @@
-### Thingking-Machine (depsekr)
+### Explaining-Machine (depsekr)
